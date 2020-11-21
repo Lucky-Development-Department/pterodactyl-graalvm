@@ -3,7 +3,7 @@
 # Environment: Java
 # Minimum Panel Version: 0.6.0
 # ----------------------------------
-FROM lustefaniak/graalvm:8
+FROM lustefaniak/graalvm:8-20.2.0
 
 MAINTAINER RikoDEV, <kontakt@riko.dev>
 
